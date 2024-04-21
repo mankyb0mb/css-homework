@@ -1,0 +1,15 @@
+.unique_one {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.unique_two {
+    color: black;
+    background-color: yellow;
+}
+
+.font_att {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
