@@ -1,0 +1,21 @@
+.coolr {
+    font-size: 40px;
+}
+
+
+.classy {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(248, 184, 177);
+}
+
+
+#ID_ONE {
+    font-size: 50px;
+    color: blue;
+}
+
+#ID_TWO {
+    font-size: 45px;
+    font-weight: 900;
+    background-color: rgb(144, 235, 144);
+}
